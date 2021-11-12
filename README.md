@@ -1,0 +1,2 @@
+# Pyhton
+Basic exercises 
